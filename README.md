@@ -69,7 +69,7 @@ dbt test
 
 ```bash
 # Clone the repository
-git clone https://github.com/CarlosHenriqueCMoriera/dbt-modern-warehouse.git
+git clone https://github.com/CarlosHenriqueCMoreira/dbt-modern-warehouse.git
 cd dbt-modern-warehouse/jaffle_shop
 
 # Create virtual environment
